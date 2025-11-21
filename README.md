@@ -39,7 +39,7 @@ Deploy the prototype, collect student and parent feedback, and refine based on r
 
 **Method Used:** Rapid Brainstorming
 
-**Theme:** **"EduSpark" – A smart learning platform powered by interactive play.**
+**Theme:** **"LearnJoy" – A smart learning platform powered by interactive play.**
 
 ### **Eight Generated Ideas:**
 
@@ -114,7 +114,7 @@ Maya, a 12-year-old student, logs into the **EduSpark** app after school. Her da
 
 ## **5. Information Architecture (IA)**
 
-**App Example:** EduSpark
+**App Example:** LearnJoy
 
 **Method Used:** Category Sorting
 
