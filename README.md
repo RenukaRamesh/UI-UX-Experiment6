@@ -2,14 +2,11 @@
 
 ### Name: RENUKA R
 
-### Register No: 212223040023
----
-
+### Register No: 212223240136
 ## **Aim**
 
 To design an integrated UX model that merges study content with playful interaction, encouraging consistent learning, skill-building, and increased student engagement.
 
----
 
 ## **Algorithm**
 
